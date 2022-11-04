@@ -1,0 +1,23 @@
+{
+  "name": "mapping-images",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/mapping-images.umd.js",
+  "files": ["dist"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "keywords": [
+    "for vue2",
+    "easily mapping images",
+    "event page",
+    "same image name for different devices"
+  ],
+  "repository": {
+    "url": "https://github.com/dang0705/mapping-images.git",
+    "type": "git"
+  },
+  "author": "JAY YU",
+  "license": "ISC"
+}
